@@ -1,0 +1,127 @@
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.container-qr {
+  margin-top: -3rem;
+  padding: 3rem;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-inputs {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  input {
+    display: block;
+    border-radius: 15px;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    outline: #ba2c3d;
+    border: none;
+    width: 16rem;
+    padding: 6%;
+    margin: 10px 0;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+    &::placeholder {
+      text-align: center;
+      font-family: 'Supermercado One', cursive;
+      color: #fff;
+      font-weight: bold;
+    }
+      &:focus {
+        background-color: #ba2c3d;
+      }
+  }
+
+  button {
+    background-image: linear-gradient(315deg, #ba2c3d 0%, rgba(185, 19, 114, 0.42) 74%);
+  }
+}
+.container-etapes{
+  text-align: center;
+  font-family: 'Supermercado One', cursive;
+  padding: 0 5%;
+}
+.share {
+  margin-top: 2%;
+  color: #fff;
+
+  button {
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+  }
+
+}
+
+button {
+  font-family: 'Rowdies', cursive;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  padding: 1rem;
+  background-color: #ba2c3d;
+  color: #ffffff;
+  font-weight: 500;
+  width: 10rem;
+  transition: all 0.7s linear;
+  &:hover,&:active{
+    transform: scale(1.08);
+  }
+}
+.right{
+  margin-top: 10%;
+  color: #eee;
+  font-size: 1em;
+  width: 100%;
+  text-align: center;
+}
+@media (max-width: 768px){
+  .container-qr{
+    padding:0;
+  }
+  .container-inputs{
+    margin: 0;
+  }
+  .container-etapes {
+    margin-top: 45px;
+
+  }
+  .share{
+    button{
+      margin-top: 40px;
+      padding: 0.5rem;
+    }
+  }
+  .right{
+    margin-top: 5%;
+  }
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ba2c3d;
+  font-size: 1rem;
+  position: absolute;
+  bottom: 0;
+  font-weight: 500;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+}
