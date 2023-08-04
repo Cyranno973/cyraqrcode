@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1691135154521,
-  "index": "https://[Cyranno973].github.io/[cyraqrcode]/index.html",
+  "timestamp": 1691135661864,
+  "index": "https://Cyranno973.github.io/cyraqrcode/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://[Cyranno973].github.io/[cyraqrcode]/favicon.ico",
-        "https://[Cyranno973].github.io/[cyraqrcode]/index.html",
-        "https://[Cyranno973].github.io/[cyraqrcode]/main.11430459f6b96cb3.js",
-        "https://[Cyranno973].github.io/[cyraqrcode]/manifest.webmanifest",
-        "https://[Cyranno973].github.io/[cyraqrcode]/polyfills.dfa96c635b1bbe2e.js",
-        "https://[Cyranno973].github.io/[cyraqrcode]/runtime.878efdb33d6ca672.js",
-        "https://[Cyranno973].github.io/[cyraqrcode]/styles.71a533821c4966da.css"
+        "https://Cyranno973.github.io/cyraqrcode/favicon.ico",
+        "https://Cyranno973.github.io/cyraqrcode/index.html",
+        "https://Cyranno973.github.io/cyraqrcode/main.11430459f6b96cb3.js",
+        "https://Cyranno973.github.io/cyraqrcode/manifest.webmanifest",
+        "https://Cyranno973.github.io/cyraqrcode/polyfills.dfa96c635b1bbe2e.js",
+        "https://Cyranno973.github.io/cyraqrcode/runtime.878efdb33d6ca672.js",
+        "https://Cyranno973.github.io/cyraqrcode/styles.71a533821c4966da.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-128x128.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-144x144.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-152x152.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-192x192.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-384x384.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-512x512.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-72x72.png",
-        "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-96x96.png"
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-128x128.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-144x144.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-152x152.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-192x192.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-384x384.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-512x512.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-72x72.png",
+        "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://[Cyranno973].github.io/[cyraqrcode]/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://[Cyranno973].github.io/[cyraqrcode]/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://[Cyranno973].github.io/[cyraqrcode]/index.html": "584d57b498afb881a7cccc0fe05296796267ca43",
-    "https://[Cyranno973].github.io/[cyraqrcode]/main.11430459f6b96cb3.js": "bc8c50dbabf0f21e518139ee062449c8056399b2",
-    "https://[Cyranno973].github.io/[cyraqrcode]/manifest.webmanifest": "ca70024934428a3d5707865997d34df5fc53d42f",
-    "https://[Cyranno973].github.io/[cyraqrcode]/polyfills.dfa96c635b1bbe2e.js": "45444141f103f1fd81db5af5d2d5c5432202a386",
-    "https://[Cyranno973].github.io/[cyraqrcode]/runtime.878efdb33d6ca672.js": "07ed7fb3105a094a32e0680f843e615ea71b1b7f",
-    "https://[Cyranno973].github.io/[cyraqrcode]/styles.71a533821c4966da.css": "215168970afc5ca7eb6b89960a78179c01e62302"
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://Cyranno973.github.io/cyraqrcode/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://Cyranno973.github.io/cyraqrcode/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Cyranno973.github.io/cyraqrcode/index.html": "78d434d84c074f3985c734ab78b8f768f30ee7c7",
+    "https://Cyranno973.github.io/cyraqrcode/main.11430459f6b96cb3.js": "bc8c50dbabf0f21e518139ee062449c8056399b2",
+    "https://Cyranno973.github.io/cyraqrcode/manifest.webmanifest": "ca70024934428a3d5707865997d34df5fc53d42f",
+    "https://Cyranno973.github.io/cyraqrcode/polyfills.dfa96c635b1bbe2e.js": "45444141f103f1fd81db5af5d2d5c5432202a386",
+    "https://Cyranno973.github.io/cyraqrcode/runtime.878efdb33d6ca672.js": "07ed7fb3105a094a32e0680f843e615ea71b1b7f",
+    "https://Cyranno973.github.io/cyraqrcode/styles.71a533821c4966da.css": "215168970afc5ca7eb6b89960a78179c01e62302"
   },
   "navigationUrls": [
     {
